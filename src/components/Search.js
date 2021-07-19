@@ -37,9 +37,9 @@ function Search() {
             // setLoad(true);
             console.log("line 38")
             setLoad(!onload);
-            console.log("Line no 35", onload)
+            console.log("Line no 40", onload)
             search();
-                    console.log("after search method-------",onload)   
+            console.log("after search method-------",onload)   
             // timeoutId = setTimeout(() => {
             //         search();
             //         console.log("after search method-------",onload)   
